@@ -1,0 +1,26 @@
+Q1. How do you set a password for a user so that it never expires?
+Q2. Why can't /etc/passwd and /etc/shadow be merged into a single file?
+Q3. How can you list all files opened by a particular process?
+Q4. You are unable to unmount a filesystem. What could be the possible reasons?
+Q5. What could be the reason if a server takes a long time to come up after a reboot?
+Q6. You are unable to create new files in a partition even though there is enough disk space and you have the required permissions. What could be the possible reasons?
+Q7. How do you check kernel routing information?
+Q8. How do you set the sticky bit? Difference between s and S?
+Q9. Which file specifies the default gateway?
+Q10. How do you switch between runlevels?
+Q11. What is NFS? How do you configure it, and which port does it use?
+Q12. What are nice and renice values? How do you set them for a particular process?
+Q13. What is the difference between FTP and TFTP?
+Q14. How do you extend the size of a logical volume in Linux?
+Q15. How would you roll back packages after patching?
+Q16. What is rsync? How does it differ from scp?
+Q17. How do you reduce the size of a logical volume? Can filesystem reduction be performed online?
+Q18. How do you display line numbers in Vim?
+Q19. Explain each field in the /etc/fstab file.
+Q20. Difference between soft and hard links? Can hard links cross filesystems?
+Q21. How do you check whether a port is listening?
+Q22. What is the difference between the df and du commands?
+Q23. What is journaling? Difference between ext2 and ext3/ext4?
+Q24. Explain the Linux boot process step by step.
+Q25. What are runlevels in Linux?
+Q26. What do PCPU and JCPU mean in w output?
